@@ -1,0 +1,8 @@
+PostAPIWithDifferentBodyTypes/PostAPIWithDifferentBody.class
+GETAPITestsWithBDD/ContactsAPIsTest.class
+POSTAPITests/CreateUserAPITest.class
+GETAPIWithNonBDD/GetContactsAPITest.class
+GETAPITestsWithBDD/GoRestAPITest.class
+GETAPITestsWithBDD/ProductAPITest.class
+GETAPITestsWithBDD/GetUserPostWithPathParam.class
+GETAPITestsWithBDD/GetUserWithQueryParam.class
